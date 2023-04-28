@@ -1,0 +1,10 @@
+export { default as Home } from "./home";
+export { default as About } from "./about";
+export { default as Platform } from "./platform";
+export { default as SupportingEntities } from "./supportingEntities";
+export { default as ArticlesDetails } from "./articles/articlesDetails";
+export { default as DigitalLibrary } from "./digitalLibrary";
+export { default as DigitalCategory } from "./digitalLibrary/nationalCategoryDetails";
+export { default as ArticlesFeatured } from "./articles/articlesFeatured";
+export { default as Podcasts } from "./podcast/podcasts";
+export { default as PodcastAudioComp } from "./podcastPlayingAudio";

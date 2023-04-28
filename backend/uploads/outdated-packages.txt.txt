@@ -1,0 +1,43 @@
+warning @metamask/providers > webextension-polyfill-ts@0.25.0: This project has moved to @types/webextension-polyfill
+warning @metamask/providers > extension-port-stream > webextension-polyfill-ts@0.22.0: This project has moved to @types/webextension-polyfill
+warning @walletconnect/web3-provider@1.8.0: WalletConnect's v1 SDKs are now deprecated. Please upgrade to a v2 SDK. For details see: https://docs.walletconnect.com/
+warning @walletconnect/web3-provider > @walletconnect/types@1.8.0: WalletConnect's v1 SDKs are now deprecated. Please upgrade to a v2 SDK. For details see: https://docs.walletconnect.com/
+warning @walletconnect/web3-provider > @walletconnect/utils > @walletconnect/types@1.8.0: WalletConnect's v1 SDKs are now deprecated. Please upgrade to a v2 SDK. For details see: https://docs.walletconnect.com/
+warning @walletconnect/web3-provider > @walletconnect/client@1.8.0: WalletConnect's v1 SDKs are now deprecated. Please upgrade to a v2 SDK. For details see: https://docs.walletconnect.com/
+warning @walletconnect/web3-provider > @walletconnect/client > @walletconnect/types@1.8.0: WalletConnect's v1 SDKs are now deprecated. Please upgrade to a v2 SDK. For details see: https://docs.walletconnect.com/
+warning @walletconnect/web3-provider > @walletconnect/qrcode-modal@1.8.0: WalletConnect's v1 SDKs are now deprecated. Please upgrade to a v2 SDK. For details see: https://docs.walletconnect.com/
+warning @walletconnect/web3-provider > @walletconnect/qrcode-modal > @walletconnect/types@1.8.0: WalletConnect's v1 SDKs are now deprecated. Please upgrade to a v2 SDK. For details see: https://docs.walletconnect.com/
+warning @walletconnect/web3-provider > @walletconnect/http-connection > @walletconnect/types@1.8.0: WalletConnect's v1 SDKs are now deprecated. Please upgrade to a v2 SDK. For details see: https://docs.walletconnect.com/
+warning @walletconnect/web3-provider > web3-provider-engine > ethereumjs-tx@1.3.7: New package name format for new versions: @ethereumjs/tx. Please update.
+warning @walletconnect/web3-provider > web3-provider-engine > request@2.88.2: request has been deprecated, see https://github.com/request/request/issues/3142
+warning @walletconnect/web3-provider > web3-provider-engine > eth-sig-util@1.4.2: Deprecated in favor of '@metamask/eth-sig-util'
+warning @walletconnect/web3-provider > web3-provider-engine > eth-json-rpc-middleware > eth-sig-util@1.4.2: Deprecated in favor of '@metamask/eth-sig-util'
+warning @walletconnect/web3-provider > web3-provider-engine > ethereumjs-block@1.7.1: New package name format for new versions: @ethereumjs/block. Please update.
+warning @walletconnect/web3-provider > web3-provider-engine > ethereumjs-block > ethereumjs-tx@1.3.7: New package name format for new versions: @ethereumjs/tx. Please update.
+warning @walletconnect/web3-provider > web3-provider-engine > ethereumjs-vm@2.6.0: New package name format for new versions: @ethereumjs/vm. Please update.
+warning @walletconnect/web3-provider > web3-provider-engine > ethereumjs-vm > ethereumjs-block@2.2.2: New package name format for new versions: @ethereumjs/block. Please update.
+warning @walletconnect/web3-provider > web3-provider-engine > ethereumjs-vm > ethereumjs-block > ethereumjs-tx@2.1.2: New package name format for new versions: @ethereumjs/tx. Please update.
+warning @walletconnect/web3-provider > web3-provider-engine > eth-block-tracker > safe-event-emitter@1.0.1: Renamed to @metamask/safe-event-emitter
+warning @walletconnect/web3-provider > web3-provider-engine > eth-json-rpc-infura > json-rpc-engine > safe-event-emitter@1.0.1: Renamed to @metamask/safe-event-emitter
+warning @walletconnect/web3-provider > web3-provider-engine > eth-json-rpc-middleware > safe-event-emitter@1.0.1: Renamed to @metamask/safe-event-emitter
+warning @walletconnect/web3-provider > @walletconnect/utils > @walletconnect/browser-utils > @walletconnect/types@1.8.0: WalletConnect's v1 SDKs are now deprecated. Please upgrade to a v2 SDK. For details see: https://docs.walletconnect.com/
+warning @walletconnect/web3-provider > web3-provider-engine > request > har-validator@5.1.5: this library is no longer supported
+warning @walletconnect/web3-provider > @walletconnect/client > @walletconnect/iso-crypto > @walletconnect/types@1.8.0: WalletConnect's v1 SDKs are now deprecated. Please upgrade to a v2 SDK. For details see: https://docs.walletconnect.com/
+warning @walletconnect/web3-provider > @walletconnect/client > @walletconnect/core > @walletconnect/types@1.8.0: WalletConnect's v1 SDKs are now deprecated. Please upgrade to a v2 SDK. For details see: https://docs.walletconnect.com/
+warning @walletconnect/web3-provider > web3-provider-engine > request > uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.
+warning @walletconnect/web3-provider > @walletconnect/qrcode-modal > @walletconnect/mobile-registry@1.4.0: Deprecated in favor of dynamic registry available from: https://github.com/walletconnect/walletconnect-registry
+warning @walletconnect/web3-provider > web3-provider-engine > ethereumjs-vm > ethereumjs-common@1.5.2: New package name format for new versions: @ethereumjs/common. Please update.
+warning @walletconnect/web3-provider > web3-provider-engine > ethereumjs-vm > ethereumjs-block > ethereumjs-common@1.5.2: New package name format for new versions: @ethereumjs/common. Please update.
+warning @walletconnect/web3-provider > web3-provider-engine > ethereumjs-vm > ethereumjs-block > ethereumjs-tx > ethereumjs-common@1.5.2: New package name format for new versions: @ethereumjs/common. Please update.
+warning @walletconnect/web3-provider > @walletconnect/client > @walletconnect/core > @walletconnect/socket-transport > @walletconnect/types@1.8.0: WalletConnect's v1 SDKs are now deprecated. Please upgrade to a v2 SDK. For details see: https://docs.walletconnect.com/
+warning next-pwa > workbox-webpack-plugin > workbox-build > rollup-plugin-terser@7.0.2: This package has been deprecated and is no longer maintained. Please use @rollup/plugin-terser
+warning next-pwa > workbox-webpack-plugin > workbox-build > @rollup/plugin-replace > magic-string > sourcemap-codec@1.4.8: Please use @jridgewell/sourcemap-codec instead
+warning react-three-fiber@6.0.13: react-three-fiber has been deprecated, please use @react-three/fiber from now on
+warning web3 > web3-bzz > swarm-js > mkdirp-promise@5.0.1: This package is broken and no longer maintained. 'mkdirp' itself supports promises now, please switch to that.
+warning web3 > web3-bzz > swarm-js > eth-lib > servify > request@2.88.2: request has been deprecated, see https://github.com/request/request/issues/3142
+warning web3 > web3-eth > web3-eth-ens > content-hash > cids@0.7.5: This module has been superseded by the multiformats module
+warning web3 > web3-eth > web3-eth-ens > content-hash > multicodec@0.5.7: This module has been superseded by the multiformats module
+warning web3 > web3-eth > web3-eth-ens > content-hash > cids > multicodec@1.0.4: This module has been superseded by the multiformats module
+warning web3 > web3-eth > web3-eth-ens > content-hash > cids > multibase@0.6.1: This module has been superseded by the multiformats module
+warning web3 > web3-eth > web3-eth-ens > content-hash > multihashes > multibase@0.7.0: This module has been superseded by the multiformats module
+warning jest > jest-cli > jest-config > jest-environment-jsdom > jsdom > w3c-hr-time@1.0.2: Use your platform's native performance.now() and performance.timeOrigin.
