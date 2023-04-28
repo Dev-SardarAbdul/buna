@@ -4,7 +4,7 @@ export const HeroSection = styled.section`
   background: linear-gradient(180deg, #008c9d 0%, #224292 100%);
   padding: 2rem 0;
 
-   .supportIcon {
+  .supportIcon {
     position: absolute;
     right: 0;
     top: 10%;
@@ -20,9 +20,8 @@ export const HeroSection = styled.section`
 `;
 
 export const HeroTitle = styled.h5`
-  font-family: "FS Albert Arabic";
   font-style: normal;
-  font-weight: 700;
+  font-weight: 500;
   font-size: 40px;
   line-height: 120%;
   color: #ffffff;
@@ -864,20 +863,17 @@ export const WelcomeWrapper = styled.div`
     justify-content: center;
     overflow: hidden;
     height: 400px;
-   
   }
 
   .carouselImg {
     width: 100%;
     background-image: linear-gradient(90deg, #1d569c 0%, rgba(0, 0, 0, 0) 100%);
-  
   }
 
   .carousel-images img.active {
     opacity: 1;
 
     animation: fade 2s infinite;
-   
 
     @keyframes fade {
       0% {

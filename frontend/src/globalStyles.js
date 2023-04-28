@@ -66,7 +66,7 @@ const GlobalStyle = createGlobalStyle`
   
 } */
 
-@font-face {
+/* @font-face {
   font-family: 'FS Albert Arabic';
   src: url(${FSAlbertArabicBold}) format('woff2'),
        url(${FSAlbertArabicBold}) format('woff');
@@ -88,7 +88,7 @@ const GlobalStyle = createGlobalStyle`
        url(${FSAlbertArabicLight}) format('woff');
   font-weight: 300;
   font-style: normal;
-}
+} */
 
 /* @font-face {
   font-family: 'FS Albert Arabic';
@@ -98,13 +98,13 @@ const GlobalStyle = createGlobalStyle`
   font-style: normal;
 } */
 
-@font-face {
+/* @font-face {
   font-family: 'FS Albert Arabic';
   src: url(${FSAlbertArabicThin}) format('woff2'),
        url(${FSAlbertArabicThin}) format('woff');
   font-weight: 100;
   font-style: normal;
-}
+} */
   html
   {
     scroll-behavior: smooth;
